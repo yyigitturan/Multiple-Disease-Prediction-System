@@ -1,6 +1,6 @@
 # Multiple Disease Prediction System
 
-![Project Screenshot](https://your-image-url.com)
+![Project Screenshot](stl.png)
 
 ## Project Description
 
