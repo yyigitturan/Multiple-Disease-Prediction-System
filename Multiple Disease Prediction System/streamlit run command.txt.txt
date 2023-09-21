@@ -1,1 +1,3 @@
 streamlit run "C:/Users/yigit_5rkz30x/ML Project/Multiple Disease Prediction System/multiple disease pred.py"
+
+streamlit run "multiple_disease_pred.py"
