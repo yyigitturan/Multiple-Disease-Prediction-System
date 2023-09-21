@@ -27,12 +27,6 @@ To run this project, follow these steps:
    cd path/to/project
    ```
 
-4. Install the required Python libraries listed in the requirements.txt file by running the following command:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 When the project is run, a Streamlit application will be launched, which will be displayed in your web browser. You can then follow these steps to make disease predictions:
