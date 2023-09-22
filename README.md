@@ -28,7 +28,8 @@ To run this project, follow these steps:
    ```
 
 ## Usage
-
+Click the below link if you want to use web app.
+https://web-app-multiple-disease-prediction-system-jadhrwsxjbzxhvyq4fe.streamlit.app/
 When the project is run, a Streamlit application will be launched, which will be displayed in your web browser. You can then follow these steps to make disease predictions:
 
 1. Start the Streamlit application by running the following command:
